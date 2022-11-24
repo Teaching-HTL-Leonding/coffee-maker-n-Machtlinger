@@ -1,0 +1,15 @@
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\bin\Debug\net6.0\020_coffee_machine.exe
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\bin\Debug\net6.0\020_coffee_machine.deps.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\bin\Debug\net6.0\020_coffee_machine.runtimeconfig.json
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\bin\Debug\net6.0\020_coffee_machine.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\bin\Debug\net6.0\020_coffee_machine.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.csproj.AssemblyReference.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.AssemblyInfoInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.AssemblyInfo.cs
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.csproj.CoreCompileInputs.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\refint\020_coffee_machine.dll
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.pdb
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\020_coffee_machine.genruntimeconfig.cache
+C:\Users\ninam\OneDrive\Desktop\htl\programmieren\020_coffee_machine\obj\Debug\net6.0\ref\020_coffee_machine.dll
